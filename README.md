@@ -1,17 +1,11 @@
 # kampusku
+Nama Anggota: 
+- Anisa Ansuya (24552011020)
+- Asma Wafa (24552011347)
+- Gholib Ahmad Refan(24552011164)
+- Grace Olivia (24552011020)
+- M. Abdul Aziz (24552011381)
 
-A new Flutter project.
+Kelas: TIF RP 24 C CID
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![]<img width="1280" height="837" alt="6275996793959027276" src="https://github.com/user-attachments/assets/2dc0cfcc-c026-429c-9cad-feacba9173cd" />
